@@ -1,0 +1,63 @@
+{
+  "dispositius": {
+    "quantitat_elements": 4,
+    "dispositiu": [
+      {
+        "tipus": "ordinador",
+        "nom": "Matebook",
+        "empresa": "Huawei",
+        "polzades": 13,
+        "en_estoc": true,
+        "preu": {
+          "moneda": "€",
+          "valor": 780
+        },
+        "informacio_interna": "C:\\Documents\\files\\matebook.json\\internal_info"
+      },
+      {
+        "tipus": "ordinador",
+        "nom": "Titan",
+        "empresa": "Slimbook",
+        "polzades": 15.6,
+        "en_estoc": true,
+        "preu": {
+          "moneda": "$",
+          "valor": 1949
+        },
+        "eslogans": [
+          "Slimbook Titan: Desperta el poder en cada píxel",
+          "Slimbook Titan: Rendiment imparable"
+        ]
+      },
+      {
+        "tipus": "tauleta",
+        "nom": "Matepad",
+        "empresa": "Huawei",
+        "polzades": 10.4,
+        "en_estoc": false,
+        "preu": {
+          "moneda": "€",
+          "valor": null
+        },
+        "característiques": []
+      },
+      {
+        "tipus": "smartphone",
+        "nom": "P50 Pocket",
+        "empresa": "Huawei",
+        "polzades": 9,
+        "en_estoc": true,
+        "preu": {
+          "moneda": "€",
+          "descompte": "3%",
+          "valor": 999
+        },
+        "característiques": [
+          "Bateria de 5000mAh",
+          "Pantalla Super AMOLED Plus",
+          "USB-C"
+        ]
+      }
+    ]
+  }
+}
