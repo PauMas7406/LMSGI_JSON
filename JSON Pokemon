@@ -1,0 +1,72 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "nom": "Bulbasaur",
+      "tipus": ["Planta", "Verí"],
+      "pes": "6.9 kg",
+      "altura": "0.7 m",
+      "estadistiques": {
+        "velocitat": 3,
+        "fortalesa": 3,
+        "precisio": 4,
+        "resistencia": 4
+      },
+      "moviments": [
+        {
+          "nom": "Llátigo Cepa",
+          "descripcio": "Ataca amb vinyes per danyar l'enemic.",
+          "potencia": 45,
+          "contacte": "Sí"
+        },
+        {
+          "nom": "Placaje",
+          "descripcio": "Una embestida bàsica per atacar l'enemic.",
+          "potencia": 40,
+          "contacte": "Sí"
+        }
+      ],
+      "imatge": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemon.com%2Fes%2Fpokedex%2Fbulbasaur&psig=AOvVaw2aXQphWR7j_bmKth4dFKsY&ust=1736889252594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPix6OjO84oDFQAAAAAdAAAAABAE",
+      "evolucions": [
+        {
+          "id": 2,
+          "nivell": 16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Charmander",
+      "tipus": ["Foc"],
+      "pes": "8.5 kg",
+      "altura": "0.6 m",
+      "estadistiques": {
+        "velocitat": 4,
+        "fortalesa": 3,
+        "precisio": 3,
+        "resistencia": 2
+      },
+      "moviments": [
+        {
+          "nom": "Llamarada",
+          "descripcio": "Llança una gran flamarada per atacar l'enemic.",
+          "potencia": 110,
+          "contacte": "No"
+        },
+        {
+          "nom": "Arañazo",
+          "descripcio": "Grata l'enemic amb urpes.",
+          "potencia": 40,
+          "contacte": "Sí"
+        }
+      ],
+      "imatge": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemon.com%2Fes%2Fpokedex%2Fcharmander&psig=AOvVaw2VGa3uhT32rIOZu7mkDhet&ust=1736889297300000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCxf7O84oDFQAAAAAdAAAAABAJ",
+      "evolucions": [
+        {
+          "id": 5,
+          "nivell": 16
+        }
+      ]
+    }
+  ]
+}
